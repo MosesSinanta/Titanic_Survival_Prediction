@@ -1,0 +1,30 @@
+{
+    "Linear kernel": {
+        "accuracy": "0.782", 
+        "confusion_matrix": [
+            [88, 17], 
+            [22, 52]
+        ]
+    },
+    "Poly kernel": {
+        "accuracy": "0.816", 
+        "confusion_matrix": [
+            [93, 12], 
+            [21, 53]
+        ]
+    },
+    "RBF kernel": {
+        "accuracy": "0.816", 
+        "confusion_matrix": [
+            [92, 13], 
+            [20, 54]
+        ]
+    },
+    "Sigmoid kernel": {
+        "accuracy": "0.682", 
+        "confusion_matrix": [
+            [81, 24], 
+            [33, 41]
+        ]
+    }
+}
